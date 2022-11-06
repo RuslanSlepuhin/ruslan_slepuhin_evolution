@@ -1,0 +1,14 @@
+{
+  "name": "ruslan_slepuhin_evolution",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RuslanSlepuhin/ruslan_slepuhin_evolution.git",
+  "author": "RuslanSlepuhin <101825832+RuslanSlepuhin@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
