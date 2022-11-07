@@ -31,11 +31,11 @@ test('should properly output the perimeter value', () => {
 // the first test
 test('should properly output the message to consol', () => {
     const outputText = rectang.getRectangleInfo(6, 12);
-    expect(outputText).toBe(console.log('The perimeter of a rectangle is 36 and the area is 72'))
+    expect(outputText).toBe('The perimeter of a rectangle is 36 and the area is 72')
 });
 
 // the second test
 test('should properly output the message to consol', () => {
     const outputText = rectang.getRectangleInfo(24, 600);
-    expect(outputText).toBe(console.log('The perimeter of a rectangle is 1248 and the area is 14400'))
+    expect(outputText).toBe('The perimeter of a rectangle is 1248 and the area is 14400')
 });
